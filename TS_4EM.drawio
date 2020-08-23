@@ -1,1 +1,34 @@
-<mxfile host="app.diagrams.net" modified="2020-08-23T12:02:57.174Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" version="13.6.4" etag="4RUgdo3n9PR8IMELbb7X" type="github"><diagram id="XMSOsgWEYVkMHTlVNWGe">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-08-23T15:25:57.151Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="rY_EOBPabqdfIzSZMjvG" version="13.6.4" type="github">
+  <diagram id="XMSOsgWEYVkMHTlVNWGe" name="Page-1">
+    <mxGraphModel dx="1298" dy="760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1AHBoi1RlDgSdztuUYzp-1" value="" style="triangle;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="280" y="230" width="20" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1AHBoi1RlDgSdztuUYzp-3" value="&lt;b&gt;Goal 1&lt;/b&gt;&lt;br&gt;Become a zero-carbon business by 2025&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="390" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1AHBoi1RlDgSdztuUYzp-4" value="&lt;b&gt;Goal 2&lt;/b&gt;&lt;br&gt;Reduce cost of newspaper production by 25%" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="570" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1AHBoi1RlDgSdztuUYzp-5" value="&lt;b&gt;Opportunity&lt;/b&gt;&lt;br&gt;Use recycled paper in newspaper production" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;fontColor=#FFFFFF;fillColor=#009900;" vertex="1" parent="1">
+          <mxGeometry x="500" y="380" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1AHBoi1RlDgSdztuUYzp-6" value="" style="endArrow=classic;html=1;fontColor=#FFFFFF;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="1AHBoi1RlDgSdztuUYzp-5" target="1AHBoi1RlDgSdztuUYzp-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="480" as="sourcePoint" />
+            <mxPoint x="450" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1AHBoi1RlDgSdztuUYzp-7" value="" style="endArrow=classic;html=1;fontColor=#FFFFFF;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="1AHBoi1RlDgSdztuUYzp-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="380" as="sourcePoint" />
+            <mxPoint x="640" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
