@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-23T17:27:51.244Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="aX01xqhHDRpfc7rLY2QW" version="13.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-23T21:25:54.615Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="ejYDIdlqrTGvnDjq45nb" version="13.6.4" type="github">
   <diagram id="XMSOsgWEYVkMHTlVNWGe" name="Page-1">
     <mxGraphModel dx="1298" dy="760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -6,95 +6,116 @@
         <mxCell id="1" parent="0" />
         <mxCell id="1AHBoi1RlDgSdztuUYzp-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontColor=#FFFFFF;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="1AHBoi1RlDgSdztuUYzp-1" target="1AHBoi1RlDgSdztuUYzp-3">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="240" y="390" as="targetPoint" />
+            <mxPoint x="238" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1AHBoi1RlDgSdztuUYzp-1" value="" style="triangle;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="190" y="380" width="20" height="50" as="geometry" />
+          <mxGeometry x="188" y="235" width="20" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="1AHBoi1RlDgSdztuUYzp-3" value="&lt;b&gt;Goal 2&lt;/b&gt;&lt;br&gt;Become a zero-carbon business by 2025&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="130" y="280" width="140" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="1AHBoi1RlDgSdztuUYzp-4" value="&lt;b&gt;Goal 3&lt;/b&gt;&lt;br&gt;Reduce cost of newspaper production by 25%" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="560" y="280" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="1AHBoi1RlDgSdztuUYzp-5" value="&lt;b&gt;Opportunity 2&lt;/b&gt;&lt;br&gt;Recycled paper in newspaper production" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;fontColor=#FFFFFF;fillColor=#009900;" vertex="1" parent="1">
-          <mxGeometry x="338.5" y="270" width="150" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="1AHBoi1RlDgSdztuUYzp-6" value="" style="endArrow=classic;html=1;fontColor=#FFFFFF;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="1AHBoi1RlDgSdztuUYzp-5" target="1AHBoi1RlDgSdztuUYzp-4">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="480" as="sourcePoint" />
-            <mxPoint x="450" y="430" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="1AHBoi1RlDgSdztuUYzp-7" value="" style="endArrow=classic;html=1;fontColor=#FFFFFF;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="1AHBoi1RlDgSdztuUYzp-5" target="1AHBoi1RlDgSdztuUYzp-3">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="570" y="380" as="sourcePoint" />
-            <mxPoint x="640" y="330" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="1AHBoi1RlDgSdztuUYzp-3" value="&lt;b&gt;Goal 1&lt;/b&gt;&lt;br&gt;Become a zero-carbon business by 2025&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="128" y="90" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1AHBoi1RlDgSdztuUYzp-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontColor=#FFFFFF;" edge="1" parent="1" source="1AHBoi1RlDgSdztuUYzp-9" target="1AHBoi1RlDgSdztuUYzp-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1AHBoi1RlDgSdztuUYzp-9" value="&lt;b&gt;Goal 3&lt;/b&gt;&lt;br&gt;Digital newspapers" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="40" y="520" width="140" height="70" as="geometry" />
+        <mxCell id="1AHBoi1RlDgSdztuUYzp-9" value="&lt;b&gt;Goal 1.1&lt;/b&gt;&lt;br&gt;Digital newspaper platform" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="38" y="320" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="1AHBoi1RlDgSdztuUYzp-12" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#FFFFFF;" edge="1" parent="1" source="1AHBoi1RlDgSdztuUYzp-11" target="1AHBoi1RlDgSdztuUYzp-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1AHBoi1RlDgSdztuUYzp-11" value="&lt;b&gt;Goal 2.1&lt;/b&gt;&lt;br&gt;Electrical trucks and bicycles" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="250" y="515" width="150" height="70" as="geometry" />
+        <mxCell id="1AHBoi1RlDgSdztuUYzp-11" value="&lt;b&gt;Goal 1.2&lt;/b&gt;&lt;br&gt;Electrical trucks and bicycles" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="220" y="315" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="1AHBoi1RlDgSdztuUYzp-14" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#FFFFFF;" edge="1" parent="1" source="1AHBoi1RlDgSdztuUYzp-13" target="1AHBoi1RlDgSdztuUYzp-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1AHBoi1RlDgSdztuUYzp-13" value="&lt;b&gt;Opportunity 3&lt;/b&gt;&lt;br&gt;Use bicycles on redistribution routes" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;fontColor=#FFFFFF;fillColor=#009900;" vertex="1" parent="1">
-          <mxGeometry x="450" y="510" width="150" height="80" as="geometry" />
+        <mxCell id="1AHBoi1RlDgSdztuUYzp-13" value="&lt;b&gt;Opportunity 3&lt;/b&gt;&lt;br&gt;Use electric bicycles on re-fill distribution routes" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;fontColor=#FFFFFF;fillColor=#009900;" vertex="1" parent="1">
+          <mxGeometry x="428" y="310" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="1AHBoi1RlDgSdztuUYzp-28" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#FFFFFF;" edge="1" parent="1" source="1AHBoi1RlDgSdztuUYzp-15" target="1AHBoi1RlDgSdztuUYzp-16">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="1AHBoi1RlDgSdztuUYzp-28" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FFFFFF;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1AHBoi1RlDgSdztuUYzp-16" target="1AHBoi1RlDgSdztuUYzp-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="228" y="565" as="sourcePoint" />
+            <mxPoint x="288" y="510" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="1AHBoi1RlDgSdztuUYzp-15" value="&lt;b&gt;Goal 1&lt;br&gt;&lt;/b&gt;Increase in sales to younger age groups (ages 15-35)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="362" y="795" width="170" height="70" as="geometry" />
+        <mxCell id="1AHBoi1RlDgSdztuUYzp-15" value="&lt;b&gt;Goal 1.1.2&lt;br&gt;&lt;/b&gt;Attract younger age groups (ages 15-25)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="360" y="530" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="1AHBoi1RlDgSdztuUYzp-27" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontColor=#FFFFFF;" edge="1" parent="1" source="1AHBoi1RlDgSdztuUYzp-16" target="1AHBoi1RlDgSdztuUYzp-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="1AHBoi1RlDgSdztuUYzp-40" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;fontColor=#FFFFFF;" edge="1" parent="1" source="1AHBoi1RlDgSdztuUYzp-16" target="1AHBoi1RlDgSdztuUYzp-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1AHBoi1RlDgSdztuUYzp-16" value="&lt;b&gt;Opportunity 1&lt;/b&gt;&lt;br&gt;TrondheimStory &lt;br&gt;Mobile Application" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;fontColor=#FFFFFF;fillColor=#009900;" vertex="1" parent="1">
-          <mxGeometry x="87" y="790" width="150" height="80" as="geometry" />
+          <mxGeometry x="24.5" y="522.5" width="167" height="85" as="geometry" />
         </mxCell>
         <mxCell id="1AHBoi1RlDgSdztuUYzp-19" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#FFFFFF;" edge="1" parent="1" source="1AHBoi1RlDgSdztuUYzp-18" target="1AHBoi1RlDgSdztuUYzp-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1AHBoi1RlDgSdztuUYzp-18" value="&lt;b&gt;Problem 1&lt;/b&gt;&lt;br&gt;Younger age groups do not buy physical newspaper" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="604.5" y="795" width="135" height="70" as="geometry" />
+          <mxGeometry x="598" y="530" width="165.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="1AHBoi1RlDgSdztuUYzp-21" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;fontColor=#FFFFFF;" edge="1" parent="1" source="1AHBoi1RlDgSdztuUYzp-20" target="1AHBoi1RlDgSdztuUYzp-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1AHBoi1RlDgSdztuUYzp-20" value="&lt;b&gt;Problem 2&lt;/b&gt;&lt;br&gt;Requires more delivery employees." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="640" y="390" width="145" height="80" as="geometry" />
+        <mxCell id="1AHBoi1RlDgSdztuUYzp-20" value="&lt;b&gt;Problem 2&lt;/b&gt;&lt;br&gt;Requires more employees." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="643.25" y="200" width="145" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1AHBoi1RlDgSdztuUYzp-23" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#FFFFFF;" edge="1" parent="1" source="1AHBoi1RlDgSdztuUYzp-22" target="1AHBoi1RlDgSdztuUYzp-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1AHBoi1RlDgSdztuUYzp-22" value="&lt;b&gt;Problem 3&lt;/b&gt;&lt;br&gt;Currently no local warehouse in the city." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="650" y="500" width="150" height="80" as="geometry" />
+        <mxCell id="1AHBoi1RlDgSdztuUYzp-22" value="&lt;b&gt;Problem 3&lt;/b&gt;&lt;br&gt;Newspaper warehouse is not located in the city." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="643.25" y="310" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="1AHBoi1RlDgSdztuUYzp-25" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FFFFFF;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1AHBoi1RlDgSdztuUYzp-24" target="1AHBoi1RlDgSdztuUYzp-11">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="1AHBoi1RlDgSdztuUYzp-25" value="&lt;font color=&quot;#000000&quot;&gt;regulates&lt;/font&gt;" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FFFFFF;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1AHBoi1RlDgSdztuUYzp-24" target="1AHBoi1RlDgSdztuUYzp-13">
+          <mxGeometry x="-0.0256" relative="1" as="geometry">
+            <mxPoint x="518" y="240" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="1AHBoi1RlDgSdztuUYzp-24" value="&lt;b&gt;Rule 1&lt;/b&gt;&lt;br&gt;New investments must not increase the company&#39;s overall carbon-footprint" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="346" y="395" width="150" height="70" as="geometry" />
+        <mxCell id="1AHBoi1RlDgSdztuUYzp-24" value="&lt;b&gt;Rule 1&lt;/b&gt;&lt;br&gt;Distribution of newspapers to empty shelves must happen daily during the opening hours" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="415.5" y="150" width="175" height="85" as="geometry" />
         </mxCell>
         <mxCell id="1AHBoi1RlDgSdztuUYzp-26" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontColor=#FFFFFF;" edge="1" parent="1" source="1AHBoi1RlDgSdztuUYzp-24" target="1AHBoi1RlDgSdztuUYzp-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1AHBoi1RlDgSdztuUYzp-31" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;fontColor=#FFFFFF;" edge="1" parent="1" source="1AHBoi1RlDgSdztuUYzp-30" target="1AHBoi1RlDgSdztuUYzp-16">
+        <mxCell id="1AHBoi1RlDgSdztuUYzp-31" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FFFFFF;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1AHBoi1RlDgSdztuUYzp-16" target="1AHBoi1RlDgSdztuUYzp-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="118" y="620" as="sourcePoint" />
+            <mxPoint x="148" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1AHBoi1RlDgSdztuUYzp-30" value="&lt;b&gt;Goal 1.1.3&lt;br&gt;&lt;/b&gt;Increase advertisement income by 25%" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="18" y="705" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="1AHBoi1RlDgSdztuUYzp-42" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;fontColor=#FFFFFF;" edge="1" parent="1" source="1AHBoi1RlDgSdztuUYzp-34" target="1AHBoi1RlDgSdztuUYzp-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1AHBoi1RlDgSdztuUYzp-30" value="&lt;b&gt;Goal 1&lt;br&gt;&lt;/b&gt;Increase advertisement income by 25%" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="182" y="925" width="180" height="70" as="geometry" />
+        <mxCell id="1AHBoi1RlDgSdztuUYzp-43" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#FFFFFF;" edge="1" parent="1" source="1AHBoi1RlDgSdztuUYzp-34" target="1AHBoi1RlDgSdztuUYzp-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1AHBoi1RlDgSdztuUYzp-34" value="&lt;b&gt;Rule 2&lt;/b&gt;&lt;br&gt;Articles and stories must be reviewed and quality assured by the editorial board before published" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="590.5" y="642.5" width="198.25" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="1AHBoi1RlDgSdztuUYzp-35" value="&lt;b&gt;Goal 1.1.1&lt;br&gt;&lt;/b&gt;Increase local stories to the editorial board by 25%&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="355" y="760" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="1AHBoi1RlDgSdztuUYzp-37" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;fontColor=#FFFFFF;" edge="1" parent="1" source="1AHBoi1RlDgSdztuUYzp-36" target="1AHBoi1RlDgSdztuUYzp-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1AHBoi1RlDgSdztuUYzp-36" value="&lt;b&gt;Threat 1&lt;/b&gt;&lt;br&gt;Distribution during winter is not safe on bicycles." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="643.25" y="420" width="165.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="1AHBoi1RlDgSdztuUYzp-38" value="&lt;b&gt;Goal 1.2&lt;/b&gt;&lt;br&gt;Reduce carbon-footprint in todays&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="230" y="180" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="1AHBoi1RlDgSdztuUYzp-41" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#FFFFFF;" edge="1" parent="1" source="1AHBoi1RlDgSdztuUYzp-39" target="1AHBoi1RlDgSdztuUYzp-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1AHBoi1RlDgSdztuUYzp-39" value="&lt;b&gt;Goal 1.1.1&lt;br&gt;&lt;/b&gt;Digital platform for writing stories" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="355" y="650" width="180" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
