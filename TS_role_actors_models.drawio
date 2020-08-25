@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-25T12:48:43.879Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="Oe-nhE9zKRnAj-XCCqGh" version="13.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-25T12:52:51.302Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="C9rUv3N_jhFTYXePXQNV" version="13.6.4" type="github">
   <diagram id="TYBfL0nDtS598Hg_CeFJ" name="Page-1">
     <mxGraphModel dx="2681" dy="1086" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -14,7 +14,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qgsEmikPOjRhdi7-7S8u-1" value="Role 1:&lt;br&gt;Editor" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=card;whiteSpace=wrap;size=20;arcSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;labelPosition=center;align=center;" vertex="1" parent="1">
+        <mxCell id="qgsEmikPOjRhdi7-7S8u-1" value="Role 11:&lt;br&gt;Editor" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=card;whiteSpace=wrap;size=20;arcSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;labelPosition=center;align=center;" vertex="1" parent="1">
           <mxGeometry x="683" y="700" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qgsEmikPOjRhdi7-7S8u-2" value="Organizational Unit:&lt;br&gt;Editorial Board" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -41,7 +41,7 @@
             <mxPoint x="-1" y="-12" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qgsEmikPOjRhdi7-7S8u-4" value="Role 2:&lt;br&gt;Editor-in-chief" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=card;whiteSpace=wrap;size=20;arcSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;labelPosition=center;align=center;" vertex="1" parent="1">
+        <mxCell id="qgsEmikPOjRhdi7-7S8u-4" value="Role 9:&lt;br&gt;Editor-in-chief" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=card;whiteSpace=wrap;size=20;arcSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;labelPosition=center;align=center;" vertex="1" parent="1">
           <mxGeometry x="695" y="450" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qgsEmikPOjRhdi7-7S8u-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qgsEmikPOjRhdi7-7S8u-6" target="qgsEmikPOjRhdi7-7S8u-11">
@@ -70,7 +70,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="qgsEmikPOjRhdi7-7S8u-9" value="Role 3:&lt;br&gt;Chief Financial Officer (CFO)" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=card;whiteSpace=wrap;size=20;arcSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;labelPosition=center;align=center;" vertex="1" parent="1">
+        <mxCell id="qgsEmikPOjRhdi7-7S8u-9" value="Role 22:&lt;br&gt;Chief Financial Officer (CFO)" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=card;whiteSpace=wrap;size=20;arcSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;labelPosition=center;align=center;" vertex="1" parent="1">
           <mxGeometry x="-40" y="370" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qgsEmikPOjRhdi7-7S8u-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="qgsEmikPOjRhdi7-7S8u-10" target="qgsEmikPOjRhdi7-7S8u-21">
@@ -95,7 +95,7 @@
             <mxPoint x="2" y="3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qgsEmikPOjRhdi7-7S8u-10" value="Role 3:&lt;br&gt;Chief Technical Officer (CTO)" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=card;whiteSpace=wrap;size=20;arcSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;labelPosition=center;align=center;" vertex="1" parent="1">
+        <mxCell id="qgsEmikPOjRhdi7-7S8u-10" value="Role 8:&lt;br&gt;Chief Technical Officer (CTO)" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=card;whiteSpace=wrap;size=20;arcSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;labelPosition=center;align=center;" vertex="1" parent="1">
           <mxGeometry x="525" y="450" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qgsEmikPOjRhdi7-7S8u-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qgsEmikPOjRhdi7-7S8u-11" target="qgsEmikPOjRhdi7-7S8u-12">
@@ -130,7 +130,7 @@
             <mxPoint y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qgsEmikPOjRhdi7-7S8u-13" value="Role 3:&lt;br&gt;Chief Operating Officer (COO)" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=card;whiteSpace=wrap;size=20;arcSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;labelPosition=center;align=center;" vertex="1" parent="1">
+        <mxCell id="qgsEmikPOjRhdi7-7S8u-13" value="Role 24:&lt;br&gt;Chief Operating Officer (COO)" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=card;whiteSpace=wrap;size=20;arcSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;labelPosition=center;align=center;" vertex="1" parent="1">
           <mxGeometry x="10" y="230" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qgsEmikPOjRhdi7-7S8u-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="qgsEmikPOjRhdi7-7S8u-60" target="qgsEmikPOjRhdi7-7S8u-12">
@@ -177,7 +177,7 @@
             <mxPoint x="24" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qgsEmikPOjRhdi7-7S8u-27" value="Role 3:&lt;br&gt;Chief HR Officer (CHRO)" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=card;whiteSpace=wrap;size=20;arcSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;labelPosition=center;align=center;" vertex="1" parent="1">
+        <mxCell id="qgsEmikPOjRhdi7-7S8u-27" value="Role 23:&lt;br&gt;Chief HR Officer (CHRO)" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=card;whiteSpace=wrap;size=20;arcSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;labelPosition=center;align=center;" vertex="1" parent="1">
           <mxGeometry x="-190" y="370" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qgsEmikPOjRhdi7-7S8u-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="qgsEmikPOjRhdi7-7S8u-31" target="qgsEmikPOjRhdi7-7S8u-38">
@@ -190,7 +190,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qgsEmikPOjRhdi7-7S8u-31" value="Role 1:&lt;br&gt;Driver" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=card;whiteSpace=wrap;size=20;arcSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;labelPosition=center;align=center;" vertex="1" parent="1">
+        <mxCell id="qgsEmikPOjRhdi7-7S8u-31" value="Role 15:&lt;br&gt;Driver" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=card;whiteSpace=wrap;size=20;arcSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;labelPosition=center;align=center;" vertex="1" parent="1">
           <mxGeometry x="116" y="810" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qgsEmikPOjRhdi7-7S8u-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qgsEmikPOjRhdi7-7S8u-34" target="qgsEmikPOjRhdi7-7S8u-21">
@@ -236,7 +236,7 @@
             <mxPoint x="14" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qgsEmikPOjRhdi7-7S8u-39" value="Role 1:&lt;br&gt;Newspaper Production" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=card;whiteSpace=wrap;size=20;arcSize=12;fillColor=#d5e8d4;strokeColor=#82b366;labelPosition=center;align=center;" vertex="1" parent="1">
+        <mxCell id="qgsEmikPOjRhdi7-7S8u-39" value="Role 20:&lt;br&gt;Newspaper Production" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=card;whiteSpace=wrap;size=20;arcSize=12;fillColor=#d5e8d4;strokeColor=#82b366;labelPosition=center;align=center;" vertex="1" parent="1">
           <mxGeometry x="330" y="465" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qgsEmikPOjRhdi7-7S8u-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qgsEmikPOjRhdi7-7S8u-43" target="qgsEmikPOjRhdi7-7S8u-11">
@@ -253,7 +253,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qgsEmikPOjRhdi7-7S8u-60" value="Role 3:&lt;br&gt;Chief Logistics Officer (CLO)" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=card;whiteSpace=wrap;size=20;arcSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;labelPosition=center;align=center;" vertex="1" parent="1">
+        <mxCell id="qgsEmikPOjRhdi7-7S8u-60" value="Role 21:&lt;br&gt;Chief Logistics Officer (CLO)" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=card;whiteSpace=wrap;size=20;arcSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;labelPosition=center;align=center;" vertex="1" parent="1">
           <mxGeometry x="110" y="370" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qgsEmikPOjRhdi7-7S8u-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=40;exitPerimeter=0;" edge="1" parent="1" source="qgsEmikPOjRhdi7-7S8u-61" target="qgsEmikPOjRhdi7-7S8u-12">
@@ -285,13 +285,13 @@
             <mxPoint x="560" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qgsEmikPOjRhdi7-7S8u-89" value="Role 3:&lt;br&gt;Product Analyst" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=card;whiteSpace=wrap;size=20;arcSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;labelPosition=center;align=center;" vertex="1" parent="1">
+        <mxCell id="qgsEmikPOjRhdi7-7S8u-89" value="Role 7:&lt;br&gt;Product Analyst" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=card;whiteSpace=wrap;size=20;arcSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;labelPosition=center;align=center;" vertex="1" parent="1">
           <mxGeometry x="395" y="330" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qgsEmikPOjRhdi7-7S8u-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qgsEmikPOjRhdi7-7S8u-96" target="qgsEmikPOjRhdi7-7S8u-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qgsEmikPOjRhdi7-7S8u-96" value="Role 1:&lt;br&gt;Warehouse worker" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=card;whiteSpace=wrap;size=20;arcSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;labelPosition=center;align=center;" vertex="1" parent="1">
+        <mxCell id="qgsEmikPOjRhdi7-7S8u-96" value="Role 17:&lt;br&gt;Warehouse worker" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=card;whiteSpace=wrap;size=20;arcSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;labelPosition=center;align=center;" vertex="1" parent="1">
           <mxGeometry x="-44" y="720" width="95" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qgsEmikPOjRhdi7-7S8u-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="qgsEmikPOjRhdi7-7S8u-97">
@@ -309,7 +309,7 @@
             <mxPoint x="4" y="16.71" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qgsEmikPOjRhdi7-7S8u-97" value="Role 1:&lt;br&gt;Logistics analyst" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=card;whiteSpace=wrap;size=20;arcSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;labelPosition=center;align=center;" vertex="1" parent="1">
+        <mxCell id="qgsEmikPOjRhdi7-7S8u-97" value="Role 16:&lt;br&gt;Logistics analyst" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=card;whiteSpace=wrap;size=20;arcSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;labelPosition=center;align=center;" vertex="1" parent="1">
           <mxGeometry x="-50" y="797.14" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qgsEmikPOjRhdi7-7S8u-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="qgsEmikPOjRhdi7-7S8u-103" target="qgsEmikPOjRhdi7-7S8u-25">
@@ -320,13 +320,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qgsEmikPOjRhdi7-7S8u-103" value="Role 1:&lt;br&gt;Accountant" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=card;whiteSpace=wrap;size=20;arcSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;labelPosition=center;align=center;" vertex="1" parent="1">
+        <mxCell id="qgsEmikPOjRhdi7-7S8u-103" value="Role 18:&lt;br&gt;Accountant" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=card;whiteSpace=wrap;size=20;arcSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;labelPosition=center;align=center;" vertex="1" parent="1">
           <mxGeometry x="-44" y="590" width="95" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qgsEmikPOjRhdi7-7S8u-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="qgsEmikPOjRhdi7-7S8u-107" target="qgsEmikPOjRhdi7-7S8u-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qgsEmikPOjRhdi7-7S8u-107" value="Role 1:&lt;br&gt;HR Analyst" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=card;whiteSpace=wrap;size=20;arcSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;labelPosition=center;align=center;" vertex="1" parent="1">
+        <mxCell id="qgsEmikPOjRhdi7-7S8u-107" value="Role 19:&lt;br&gt;HR Analyst" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=card;whiteSpace=wrap;size=20;arcSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;labelPosition=center;align=center;" vertex="1" parent="1">
           <mxGeometry x="-172.5" y="590" width="95" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qgsEmikPOjRhdi7-7S8u-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qgsEmikPOjRhdi7-7S8u-108" target="qgsEmikPOjRhdi7-7S8u-111">
@@ -337,7 +337,7 @@
             <mxPoint x="17.14" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qgsEmikPOjRhdi7-7S8u-108" value="Role 3:&lt;br&gt;Marketing Analyst" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=card;whiteSpace=wrap;size=20;arcSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;labelPosition=center;align=center;" vertex="1" parent="1">
+        <mxCell id="qgsEmikPOjRhdi7-7S8u-108" value="Role 6:&lt;br&gt;Marketing Analyst" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=card;whiteSpace=wrap;size=20;arcSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;labelPosition=center;align=center;" vertex="1" parent="1">
           <mxGeometry x="1010" y="330" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qgsEmikPOjRhdi7-7S8u-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qgsEmikPOjRhdi7-7S8u-111" target="qgsEmikPOjRhdi7-7S8u-62">
@@ -359,15 +359,15 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qgsEmikPOjRhdi7-7S8u-115" value="Role 3:&lt;br&gt;Sales Analyst" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=card;whiteSpace=wrap;size=20;arcSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;labelPosition=center;align=center;" vertex="1" parent="1">
+        <mxCell id="qgsEmikPOjRhdi7-7S8u-115" value="Role 5:&lt;br&gt;Sales Analyst" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=card;whiteSpace=wrap;size=20;arcSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;labelPosition=center;align=center;" vertex="1" parent="1">
           <mxGeometry x="1010" y="220" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qgsEmikPOjRhdi7-7S8u-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="qgsEmikPOjRhdi7-7S8u-117" target="qgsEmikPOjRhdi7-7S8u-62">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="695" y="320" as="targetPoint" />
             <Array as="points">
               <mxPoint x="750" y="160" />
-              <mxPoint x="750" y="340" />
-              <mxPoint x="695" y="340" />
+              <mxPoint x="750" y="345" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -384,25 +384,25 @@
             <mxPoint x="-32.43" y="0.3100000000000023" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qgsEmikPOjRhdi7-7S8u-117" value="Role 3:&lt;br&gt;Marketing Director (CMO)" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=card;whiteSpace=wrap;size=20;arcSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;labelPosition=center;align=center;" vertex="1" parent="1">
+        <mxCell id="qgsEmikPOjRhdi7-7S8u-117" value="Role 4:&lt;br&gt;Marketing Director (CMO)" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=card;whiteSpace=wrap;size=20;arcSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;labelPosition=center;align=center;" vertex="1" parent="1">
           <mxGeometry x="1010" y="130" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qgsEmikPOjRhdi7-7S8u-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qgsEmikPOjRhdi7-7S8u-123" target="qgsEmikPOjRhdi7-7S8u-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qgsEmikPOjRhdi7-7S8u-123" value="Role 1:&lt;br&gt;Cloud IT-infrastructure" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=card;whiteSpace=wrap;size=20;arcSize=12;fillColor=#d5e8d4;strokeColor=#82b366;labelPosition=center;align=center;" vertex="1" parent="1">
+        <mxCell id="qgsEmikPOjRhdi7-7S8u-123" value="Role 10:&lt;br&gt;Cloud IT-infrastructure" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=card;whiteSpace=wrap;size=20;arcSize=12;fillColor=#d5e8d4;strokeColor=#82b366;labelPosition=center;align=center;" vertex="1" parent="1">
           <mxGeometry x="330" y="580" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qgsEmikPOjRhdi7-7S8u-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qgsEmikPOjRhdi7-7S8u-128" target="qgsEmikPOjRhdi7-7S8u-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qgsEmikPOjRhdi7-7S8u-128" value="Role 1:&lt;br&gt;Software Engineer" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=card;whiteSpace=wrap;size=20;arcSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;labelPosition=center;align=center;" vertex="1" parent="1">
+        <mxCell id="qgsEmikPOjRhdi7-7S8u-128" value="Role 12:&lt;br&gt;Software Engineer" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=card;whiteSpace=wrap;size=20;arcSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;labelPosition=center;align=center;" vertex="1" parent="1">
           <mxGeometry x="310" y="700" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qgsEmikPOjRhdi7-7S8u-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qgsEmikPOjRhdi7-7S8u-129" target="qgsEmikPOjRhdi7-7S8u-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qgsEmikPOjRhdi7-7S8u-129" value="Role 1:&lt;br&gt;Team Leader" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=card;whiteSpace=wrap;size=20;arcSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;labelPosition=center;align=center;" vertex="1" parent="1">
+        <mxCell id="qgsEmikPOjRhdi7-7S8u-129" value="Role 13:&lt;br&gt;Team Leader" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=card;whiteSpace=wrap;size=20;arcSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;labelPosition=center;align=center;" vertex="1" parent="1">
           <mxGeometry x="310" y="780" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qgsEmikPOjRhdi7-7S8u-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qgsEmikPOjRhdi7-7S8u-130" target="qgsEmikPOjRhdi7-7S8u-34">
@@ -413,7 +413,7 @@
             <mxPoint x="-15.71" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qgsEmikPOjRhdi7-7S8u-130" value="Role 1:&lt;br&gt;UX Designer" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=card;whiteSpace=wrap;size=20;arcSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;labelPosition=center;align=center;" vertex="1" parent="1">
+        <mxCell id="qgsEmikPOjRhdi7-7S8u-130" value="Role 14:&lt;br&gt;UX Designer" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=card;whiteSpace=wrap;size=20;arcSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;labelPosition=center;align=center;" vertex="1" parent="1">
           <mxGeometry x="310" y="860" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
