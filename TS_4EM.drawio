@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-26T09:48:44.131Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="cU6cA20QQ7hFNueff2X5" version="13.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-26T09:49:51.881Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="sVJj5Ea1pKNgYEbqXQmy" version="13.6.4" type="github">
   <diagram id="XMSOsgWEYVkMHTlVNWGe" name="Page-1">
     <mxGraphModel dx="2354" dy="894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -96,8 +96,13 @@
         <mxCell id="1AHBoi1RlDgSdztuUYzp-43" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#FFFFFF;" edge="1" parent="1" source="1AHBoi1RlDgSdztuUYzp-34" target="1AHBoi1RlDgSdztuUYzp-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="1AHBoi1RlDgSdztuUYzp-80" value="&lt;font color=&quot;#000000&quot;&gt;regulates&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FFFFFF;" vertex="1" connectable="0" parent="1AHBoi1RlDgSdztuUYzp-43">
+          <mxGeometry x="0.259" relative="1" as="geometry">
+            <mxPoint x="11.62" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="1AHBoi1RlDgSdztuUYzp-34" value="&lt;b&gt;Rule 2&lt;/b&gt;&lt;br&gt;Articles and stories must be reviewed and quality assured by the editorial board before published" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="591.75" y="920" width="198.25" height="85" as="geometry" />
+          <mxGeometry x="625" y="920" width="198.25" height="85" as="geometry" />
         </mxCell>
         <mxCell id="1AHBoi1RlDgSdztuUYzp-35" value="&lt;b&gt;Goal 1.1.1.1&lt;br&gt;&lt;/b&gt;Increase local stories to the editorial board by 40%&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="358.75" y="1037.5" width="180" height="70" as="geometry" />
@@ -158,8 +163,13 @@
         <mxCell id="1AHBoi1RlDgSdztuUYzp-59" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#FFFFFF;" edge="1" parent="1" source="1AHBoi1RlDgSdztuUYzp-58" target="1AHBoi1RlDgSdztuUYzp-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="1AHBoi1RlDgSdztuUYzp-81" value="&lt;font color=&quot;#000000&quot;&gt;regulates&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FFFFFF;" vertex="1" connectable="0" parent="1AHBoi1RlDgSdztuUYzp-59">
+          <mxGeometry x="-0.2802" y="-3" relative="1" as="geometry">
+            <mxPoint x="6.65" y="-12.43" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="1AHBoi1RlDgSdztuUYzp-58" value="&lt;b&gt;Rule 3&lt;/b&gt;&lt;br&gt;Articles and stories must be relevant to Trondheim and nearby regions" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="103.75" y="987.5" width="198.25" height="87.5" as="geometry" />
+          <mxGeometry x="80" y="1005" width="198.25" height="87.5" as="geometry" />
         </mxCell>
         <mxCell id="1AHBoi1RlDgSdztuUYzp-61" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontColor=#FFFFFF;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="1AHBoi1RlDgSdztuUYzp-63" target="1AHBoi1RlDgSdztuUYzp-11">
           <mxGeometry relative="1" as="geometry">
@@ -201,6 +211,11 @@
         </mxCell>
         <mxCell id="1AHBoi1RlDgSdztuUYzp-78" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;fontColor=#FFFFFF;" edge="1" parent="1" source="1AHBoi1RlDgSdztuUYzp-77" target="1AHBoi1RlDgSdztuUYzp-69">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1AHBoi1RlDgSdztuUYzp-79" value="&lt;font color=&quot;#000000&quot;&gt;regulates&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FFFFFF;" vertex="1" connectable="0" parent="1AHBoi1RlDgSdztuUYzp-78">
+          <mxGeometry x="-0.063" y="1" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="1AHBoi1RlDgSdztuUYzp-77" value="&lt;b&gt;Rule 4&lt;/b&gt;&lt;br&gt;Delivery workers must report empty shelves to logistics" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="405.88" y="590" width="198.25" height="87.5" as="geometry" />
