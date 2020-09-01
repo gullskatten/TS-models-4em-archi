@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-08-27T10:40:49.281Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="F4XMWQrU2mhpdUvhJ4_c" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-01T12:41:48.014Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="AzH8-Vu2a65c4ymW30kn" version="13.6.5" type="github">
   <diagram id="XMSOsgWEYVkMHTlVNWGe" name="Page-1">
-    <mxGraphModel dx="3709" dy="2174" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1527" dy="894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -205,7 +205,7 @@
         <mxCell id="1AHBoi1RlDgSdztuUYzp-73" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontColor=#FFFFFF;" parent="1" source="1AHBoi1RlDgSdztuUYzp-69" target="1AHBoi1RlDgSdztuUYzp-71" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1AHBoi1RlDgSdztuUYzp-69" value="&lt;b&gt;Goal 1.2.3&lt;/b&gt;&lt;br&gt;Better report of empty shelves back to logistics" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="1AHBoi1RlDgSdztuUYzp-69" value="&lt;b&gt;Goal 1.2.3&lt;/b&gt;&lt;br&gt;Report empty shelves back to logistics" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="297.5" y="500" width="155" height="70" as="geometry" />
         </mxCell>
         <mxCell id="1AHBoi1RlDgSdztuUYzp-72" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontColor=#FFFFFF;" parent="1" source="1AHBoi1RlDgSdztuUYzp-71" target="1AHBoi1RlDgSdztuUYzp-38" edge="1">
