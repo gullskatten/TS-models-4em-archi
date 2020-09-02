@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-01T12:44:28.870Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="xiq_Xjo445XKfR6EJNGa" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-02T18:25:11.762Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="FPI0SkhGEBp-3zwtKyEv" version="13.6.5" type="github">
   <diagram id="XMSOsgWEYVkMHTlVNWGe" name="Page-1">
-    <mxGraphModel dx="1527" dy="894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1854" dy="1086" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -59,7 +59,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1AHBoi1RlDgSdztuUYzp-18" value="&lt;b&gt;Problem 2&lt;/b&gt;&lt;br&gt;GDPR, management of personal data" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="118" y="969.5" width="165.5" height="70" as="geometry" />
+          <mxGeometry x="105.25" y="969.5" width="165.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="1AHBoi1RlDgSdztuUYzp-21" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;fontColor=#FFFFFF;" parent="1" source="1AHBoi1RlDgSdztuUYzp-20" target="1AHBoi1RlDgSdztuUYzp-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -108,7 +108,7 @@
             <mxPoint x="11.62" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1AHBoi1RlDgSdztuUYzp-34" value="&lt;b&gt;Rule 2&lt;/b&gt;&lt;br&gt;Articles and stories must be reviewed and quality assured by the editorial board before published" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+        <mxCell id="1AHBoi1RlDgSdztuUYzp-34" value="&lt;b&gt;Rule 2&lt;/b&gt;&lt;br&gt;Articles and stories must be reviewed and quality assured by the editor-in-chief before published" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="950" y="845.5" width="198.25" height="85" as="geometry" />
         </mxCell>
         <mxCell id="1AHBoi1RlDgSdztuUYzp-35" value="&lt;b&gt;Goal 1.1.1.1&lt;br&gt;&lt;/b&gt;Increase local stories to the editorial board by 40%&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
@@ -188,7 +188,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1AHBoi1RlDgSdztuUYzp-62" value="&lt;b&gt;Goal 1.2.2.1&lt;/b&gt;&lt;br&gt;Reduce fuel cost by 90%" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="507.5" y="500" width="155" height="70" as="geometry" />
+          <mxGeometry x="640" y="500" width="155" height="70" as="geometry" />
         </mxCell>
         <mxCell id="1AHBoi1RlDgSdztuUYzp-65" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FFFFFF;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="1AHBoi1RlDgSdztuUYzp-63" target="1AHBoi1RlDgSdztuUYzp-62" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -248,6 +248,12 @@
         </mxCell>
         <mxCell id="B9K4HaEZs2AQsK10Wpym-5" value="Reduce &quot;time to market&quot; for stories by 20%" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="959.12" y="960" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="7CumU8pX8YR0jVnMMJox-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="7CumU8pX8YR0jVnMMJox-1" target="1AHBoi1RlDgSdztuUYzp-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7CumU8pX8YR0jVnMMJox-1" value="&lt;b&gt;Goal 1.2.4&lt;/b&gt;&lt;br&gt;Optimize routes for delivery" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="463" y="500" width="155" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
