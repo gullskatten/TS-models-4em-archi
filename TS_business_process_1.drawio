@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-16T14:05:07.934Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="lG4M0UG6omBB28-St2IS" version="13.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-16T14:06:54.876Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="SMSEvyIf-jlc1Z3XVVon" version="13.6.6" type="github">
   <diagram id="T21u9-CuLx84244G4kkz" name="Page-1">
     <mxGraphModel dx="2163" dy="2839" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -395,7 +395,7 @@
         <mxCell id="xh5L1FBOFQhLeFdDGbM--9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xh5L1FBOFQhLeFdDGbM--8" target="4FQ998lupcoue13N-F9y-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xh5L1FBOFQhLeFdDGbM--8" value="Info Set 7:&lt;br&gt;&lt;br&gt;Final decision" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="xh5L1FBOFQhLeFdDGbM--8" value="Info Set 7:&lt;br&gt;&lt;br&gt;Final disapproval&lt;br&gt;decision" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="367.5" y="1020.0000000000001" width="145" height="61.63" as="geometry" />
         </mxCell>
         <mxCell id="xh5L1FBOFQhLeFdDGbM--10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4FQ998lupcoue13N-F9y-22" target="xh5L1FBOFQhLeFdDGbM--8">
