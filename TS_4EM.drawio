@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-04T14:17:14.588Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="C7OYZHAMn6fp9JVjxd5H" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-18T07:44:51.485Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="ZylQMHegn7PgP9QzhkRo" version="13.7.1" type="github">
   <diagram id="XMSOsgWEYVkMHTlVNWGe" name="Page-1">
-    <mxGraphModel dx="1854" dy="1086" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1298" dy="711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -244,16 +244,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="B9K4HaEZs2AQsK10Wpym-2" value="&lt;b&gt;Rule 5&lt;/b&gt;&lt;br&gt;Articles and stories must conform with the company&#39;s ethical and editorial standards" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="695" y="1065" width="198.25" height="85" as="geometry" />
+          <mxGeometry x="695" y="1090" width="198.25" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="B9K4HaEZs2AQsK10Wpym-5" value="Reduce &quot;time to market&quot; for stories by 20%" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="B9K4HaEZs2AQsK10Wpym-5" value="&amp;nbsp;&lt;b&gt;Goal 1.1.4.1&lt;/b&gt;&lt;br&gt;Reduce &quot;time to market&quot; for stories by 20%" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="959.12" y="960" width="180" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="7CumU8pX8YR0jVnMMJox-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="7CumU8pX8YR0jVnMMJox-1" target="1AHBoi1RlDgSdztuUYzp-71">
+        <mxCell id="7CumU8pX8YR0jVnMMJox-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" parent="1" source="7CumU8pX8YR0jVnMMJox-1" target="1AHBoi1RlDgSdztuUYzp-71" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7CumU8pX8YR0jVnMMJox-1" value="&lt;b&gt;Goal 1.2.4&lt;/b&gt;&lt;br&gt;Optimize routes for delivery" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="7CumU8pX8YR0jVnMMJox-1" value="&lt;b&gt;Goal 1.2.4&lt;/b&gt;&lt;br&gt;Optimize routes for delivery" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="463" y="500" width="155" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="QhGJ5NeZnNLudzLzvJ8g-1" value="&lt;b&gt;Goal 1.1.4.2&lt;br&gt;&lt;/b&gt;High quality in all content&lt;br&gt;delivered by TrondheimStory&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="959.12" y="1050" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="QhGJ5NeZnNLudzLzvJ8g-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="B9K4HaEZs2AQsK10Wpym-1" target="QhGJ5NeZnNLudzLzvJ8g-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="628" y="1005" as="sourcePoint" />
+            <mxPoint x="969.1199999999999" y="1005" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
